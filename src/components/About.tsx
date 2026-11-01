@@ -6,9 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          Bachelor in Computer Application graduate with hands-on internship
+          experience in banking operations and practical experience in data
+          entry and digital database management at a government office.
+          Proficient in MS Office and database tools, with additional working
+          knowledge of web and Android application development. Quick learner,
+          reliable, and comfortable coordinating with team members to complete
+          administrative and IT-related tasks.
         </p>
       </div>
     </div>

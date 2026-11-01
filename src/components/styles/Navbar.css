@@ -81,3 +81,23 @@
     font-size: 18px;
   }
 }
+@media only screen and (max-width: 499px) {
+  .header {
+    align-items: flex-start;
+    padding-top: max(14px, env(safe-area-inset-top));
+    gap: 12px;
+  }
+  .header ul {
+    flex-direction: row;
+    align-items: center;
+    gap: clamp(8px, 3vw, 16px);
+    font-size: clamp(9px, 2.8vw, 12px);
+  }
+  .header ul li {
+    letter-spacing: 0.4px;
+  }
+  .navbar-title {
+    flex-shrink: 0;
+    font-size: clamp(11px, 3vw, 14px);
+  }
+}

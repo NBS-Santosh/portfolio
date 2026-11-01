@@ -90,11 +90,15 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I am an Android application developer. I developed a body
+                health monitoring application that tracks all health details
+                in one place.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Java</div>
+                <div className="what-tags">Flutter</div>
+                <div className="what-tags">Spring Boot</div>
                 <div className="what-tags">JavaScript</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">Three.js</div>
@@ -131,11 +135,13 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                I design web pages in Flutter and do basic photo and video
+                editing. I have designed many projects, including e-commerce
+                and service websites, and more.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Flutter</div>
                 <div className="what-tags">Blender</div>
                 <div className="what-tags">Zbrush</div>
                 <div className="what-tags">UI Design</div>

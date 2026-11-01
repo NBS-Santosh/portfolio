@@ -69,3 +69,18 @@
     line-height: 2.7rem;
   }
 }
+@media only screen and (max-width: 600px) {
+  .about-me {
+    width: 100%;
+    max-width: 100%;
+  }
+  .about-me h3 {
+    font-size: clamp(18px, 5vw, 25px);
+    letter-spacing: clamp(3px, 1.2vw, 7px);
+  }
+  .about-me p {
+    font-size: clamp(18px, 5.2vw, 24px);
+    line-height: 1.25;
+    letter-spacing: 0.2px;
+  }
+}

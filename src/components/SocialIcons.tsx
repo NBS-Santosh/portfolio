@@ -1,4 +1,5 @@
 import {
+  FaFacebook,
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
@@ -60,22 +61,22 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com" target="_blank">
+          <a href="https://github.com/NBS-Santosh" target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com" target="_blank">
+          <a href="www.linkedin.com/in/santosh-shrestha-06983b256" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
         <span>
-          <a href="https://x.com" target="_blank">
-            <FaXTwitter />
+          <a href="https://www.facebook.com/xtha.santosh.16/" target="_blank">
+            <FaFacebook />
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com" target="_blank">
+          <a href="https://www.instagram.com/_santosh9_/" target="_blank">
             <FaInstagram />
           </a>
         </span>
